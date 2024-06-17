@@ -3,13 +3,17 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <head>
-  <title>everyones fucking</title>
+  <div id="header">
+    <title>everyones fucking</title>
+  </div>
 </head>
 <body>
   <br>
   <br>
   <br>
   <br>
-  <p align="center" style="font-family: Arial Black">It's true... people be fuckin'</p>
+<div id="header">
+  <p>It's true... people be fuckin'</p>
+</div>
 </body>
 </html>
